@@ -1,0 +1,17 @@
+fastapi[all]
+uvicorn[standard]
+pydantic-settings
+httpx
+tqdm
+python-dotenv
+
+langchain 
+langchain-community 
+langchain-experimental 
+langchain-openai 
+langchain-ollama 
+langgraph 
+oracledb 
+pandas 
+sqlalchemy 
+tabulate
